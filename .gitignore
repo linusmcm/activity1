@@ -3,10 +3,6 @@
 *.class
 *.log
 
-.gitignore
-.idea/misc.xml
-.idea/modules.xml
-.idea/workspace.xml
-Activity1.iml
-.ieda
+
+.idea
 *.iml
