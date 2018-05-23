@@ -1,2 +1,2 @@
-println("hi")
-println("hi to")
+println("hi i am the mapper")
+

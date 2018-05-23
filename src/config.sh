@@ -2,8 +2,8 @@
 
 #set -e
 #### variables
-inputFolder="/wc/in_folderName1"
-outputFolder="/wc/out_folderName1"
+inputFolder="/wc/in_folderName"
+outputFolder="/wc/out_folderName"
 reducerScala="reducer.scala"
 mapperScala="mapper.scala"
 #########################

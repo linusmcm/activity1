@@ -1,1 +1,1 @@
-println("hi")
+println("hi i am the reducer")
