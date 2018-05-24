@@ -1,4 +1,4 @@
-// create word count map type with a string and a int
+/** create word count map type with a string and a int */
 var wordCount = scala.collection.immutable.Map[String,Int]()
 for (ln <- scala.io.Source.stdin.getLines)
 {
