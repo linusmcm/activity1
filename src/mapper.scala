@@ -1,4 +1,4 @@
-for (lines <- scala.io.Source.stdin.getLines)
+for(lines <- scala.io.Source.stdin.getLines)
  {
     var linesLower = lines.toLowerCase()
     linesLower = linesLower.replaceAll("""[\p{Punct}]""", "")
