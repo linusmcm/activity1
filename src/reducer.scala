@@ -1,3 +1,5 @@
+#!/usr/bin/env scala
+
 var wordCount = scala.collection.immutable.Map[String,Int]()
 for (ln <- scala.io.Source.stdin.getLines)
 {

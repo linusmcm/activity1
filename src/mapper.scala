@@ -1,3 +1,5 @@
+#!/usr/bin/env scala
+
 for(lines <- scala.io.Source.stdin.getLines)
 {
   var linesLower = lines.toLowerCase()
