@@ -1,6 +1,6 @@
 #! /bin/sh -x
 
-#set -e
+#########################
 #### variables
 inputFolder="/wc/in_folderName"
 outputFolder="/wc/out_folderName"
